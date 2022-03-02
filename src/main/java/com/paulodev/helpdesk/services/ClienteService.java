@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.paulodev.helpdesk.domain.Pessoa;
+import com.paulodev.helpdesk.domain.DTO.ClienteDTO;
 import com.paulodev.helpdesk.domain.Cliente;
-import com.paulodev.helpdesk.domain.dtos.ClienteDTO;
 import com.paulodev.helpdesk.repositoris.PessoaRepository;
 import com.paulodev.helpdesk.repositoris.ClienteRepository;
 import com.paulodev.helpdesk.services.exceptions.DataIntegrityViolationException;

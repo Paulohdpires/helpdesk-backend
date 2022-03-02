@@ -8,7 +8,7 @@ import javax.persistence.Entity;
 import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.paulodev.helpdesk.domain.dtos.TecnicoDTO;
+import com.paulodev.helpdesk.domain.DTO.TecnicoDTO;
 import com.paulodev.helpdesk.domain.enums.Perfil;
 
 @Entity

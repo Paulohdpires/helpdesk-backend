@@ -1,4 +1,4 @@
-package com.paulodev.helpdesk.domain.dtos;
+package com.paulodev.helpdesk.domain.DTO;
 
 import java.io.Serializable;
 import java.time.LocalDate;

@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.paulodev.helpdesk.domain.Tecnico;
-import com.paulodev.helpdesk.domain.dtos.TecnicoDTO;
+import com.paulodev.helpdesk.domain.DTO.TecnicoDTO;
 import com.paulodev.helpdesk.services.TecnicoService;
 
 @RestController
